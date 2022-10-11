@@ -33,14 +33,14 @@ arguments:
   
   (You are advised to use at least 10 cpus)
   
-example:
+# example:
   
   bash PATH_file/Run_file/PAthreader.sh PATH_file PATH_file/example true true
 
-Resources:
+# Resources:
   The dataset used to run the PAthreader can be accessed through http://zhanglab-bioinf.com/PAthreader/download.html
   PAthreader generate MSA by searching the UniRef30_2020_03_hhsuite(https://wwwuser.gwdg.de/~compbiol/uniclust/) for template recognition
   
 
 # DISCLAIMER
-The executable software and the source code of DeepUMQA is distributed free of charge as it is to any non-commercial users. The authors hold no liabilities to the performance of the program.
+  The executable software and the source code of DeepUMQA is distributed free of charge as it is to any non-commercial users. The authors hold no liabilities to the     performance of the program.
