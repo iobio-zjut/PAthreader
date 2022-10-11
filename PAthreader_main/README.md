@@ -22,7 +22,7 @@
 
 
 # Running
-
+```
   PAthreader.sh 
 
   arguments:
@@ -34,6 +34,7 @@
   (You are advised to use at least 10 cpus)
   
 # Example
+```
   bash PATH_file/Run_file/PAthreader.sh PATH_file PATH_file/example true true
 
 # Resources
