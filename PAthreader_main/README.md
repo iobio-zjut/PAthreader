@@ -22,6 +22,7 @@
 
 
 # Running
+```
   PAthreader.sh 
 
   arguments:
@@ -31,6 +32,7 @@
   foldpath                   Whether to predict the folding path (true or false)
   
   (You are advised to use at least 10 cpus)
+```
   
 # Example
 ```
