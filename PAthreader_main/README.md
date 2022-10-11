@@ -2,10 +2,12 @@
   Remote homologous template recognition and protein folding pathway prediction
 
 # Developer
-            Kailong Zhao
-            College of Information Engineering
-            Zhejiang University of Technology, Hangzhou 310023, China
-            Email: zhaokailong@zjut.edu.cn
+```
+ Kailong Zhao
+ College of Information Engineering
+ Zhejiang University of Technology, Hangzhou 310023, China
+ Email: zhaokailong@zjut.edu.cn
+```
 
 # Contact
             Guijun Zhang, Prof
