@@ -35,6 +35,7 @@
 # Example
 ```
   bash PATH_file/Run_file/PAthreader.sh PATH_file PATH_file/example true true
+```
 
 # Resources
 - The dataset used to run the PAthreader can be accessed through http://zhanglab-bioinf.com/PAthreader/download.html
