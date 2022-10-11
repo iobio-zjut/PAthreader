@@ -1,19 +1,19 @@
 # PAthreader
-Remote homologous template recognition and protein folding pathway prediction
+  Remote homologous template recognition and protein folding pathway prediction
 
-# Developer:
-            Kailong Zhao
-            College of Information Engineering
-            Zhejiang University of Technology, Hangzhou 310023, China
-            Email: zhaokailong@zjut.edu.cn
+# Developer
+  Kailong Zhao
+  College of Information Engineering
+  Zhejiang University of Technology, Hangzhou 310023, China
+  Email: zhaokailong@zjut.edu.cn
 
-# Contact:
-            Guijun Zhang, Prof
-            College of Information Engineering
-            Zhejiang University of Technology, Hangzhou 310023, China
-            Email: zgj@zjut.edu.cn
+# Contact
+  Guijun Zhang, Prof
+  College of Information Engineering
+  Zhejiang University of Technology, Hangzhou 310023, China
+  Email: zgj@zjut.edu.cn
 
-# INSTALLATION
+# Installation
 - Python > 3.5
 - PyTorch 1.3
 - PyRosetta
@@ -21,7 +21,7 @@ Remote homologous template recognition and protein folding pathway prediction
 
 
 
-# RUNNING
+# Running
 ```
 PAthreader.sh 
 
@@ -33,11 +33,10 @@ arguments:
   
   (You are advised to use at least 10 cpus)
   
-# example:
-  
+Example
   bash PATH_file/Run_file/PAthreader.sh PATH_file PATH_file/example true true
 
-# Resources:
+Resources
   The dataset used to run the PAthreader can be accessed through http://zhanglab-bioinf.com/PAthreader/download.html
   PAthreader generate MSA by searching the UniRef30_2020_03_hhsuite(https://wwwuser.gwdg.de/~compbiol/uniclust/) for template recognition
   
