@@ -43,7 +43,7 @@
 
 # Resources
 - The dataset used to run the PAthreader can be accessed through http://zhanglab-bioinf.com/PAthreader/download.html.
-- PAthreader generate MSA by searching the UniRef30_2020_03_hhsuite(https://wwwuser.gwdg.de/~compbiol/uniclust/) for template recognition.
+- PAthreader generate MSA by searching the UniRef30_2020_03_hhsuite, which can be accessed through https://wwwuser.gwdg.de/~compbiol/uniclust.
   
 
 # DISCLAIMER
