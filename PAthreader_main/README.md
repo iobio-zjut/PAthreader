@@ -38,8 +38,8 @@
   bash PATH_file/Run_file/PAthreader.sh PATH_file PATH_file/example true true
 
 # Resources
-  The dataset used to run the PAthreader can be accessed through http://zhanglab-bioinf.com/PAthreader/download.html
-  PAthreader generate MSA by searching the UniRef30_2020_03_hhsuite(https://wwwuser.gwdg.de/~compbiol/uniclust/) for template recognition
+- The dataset used to run the PAthreader can be accessed through http://zhanglab-bioinf.com/PAthreader/download.html
+- PAthreader generate MSA by searching the UniRef30_2020_03_hhsuite(https://wwwuser.gwdg.de/~compbiol/uniclust/) for template recognition
   
 
 # DISCLAIMER
