@@ -10,10 +10,12 @@
 ```
 
 # Contact
-            Guijun Zhang, Prof
-            College of Information Engineering
-            Zhejiang University of Technology, Hangzhou 310023, China
-            Email: zgj@zjut.edu.cn
+```
+ Guijun Zhang, Prof
+ College of Information Engineering
+ Zhejiang University of Technology, Hangzhou 310023, China
+ Email: zgj@zjut.edu.cn
+```
 
 # Installation
 - Python > 3.5
