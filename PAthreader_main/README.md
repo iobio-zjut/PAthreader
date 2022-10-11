@@ -22,10 +22,10 @@
 
 
 # Running
-```
-PAthreader.sh 
 
-arguments:
+  PAthreader.sh 
+
+  arguments:
   PATH_file                  path to "PAthreader_main" folder
   PATH_target                path to target protein folder(Place a sequence file named "seq.fasta" in the target protein folder)
   homologou                  redundancy of template (true: Do not remove homologous templates, false: remove homologous templates with a sequence identity ≥ 30%)
