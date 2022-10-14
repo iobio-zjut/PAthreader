@@ -61,14 +61,14 @@ python $1/Run_file/predict_DMscore.py $1 $2
 $1/Run_file/Align_pDM
 echo "Template	rankScore	alignScore	pDMscore" > template_rank
 sort -rn -k2 Align_pDM_lineweight >> template_rank
-
+sort -rn -k2 Align_pDM_lineweight >> Template_for_I
 
 if [ "$4" == "true" ];then
 	echo "=={=======> Folding pathway =={=======>"
 	python $1/Run_file/folding_path.py $1 $2
 	sort -rn -k2 stage_foldpath > stage_foldpath_sort
 
-	cat template_rank stage_foldpath_sort > Template_for_I
+	cat stage_foldpath_sort > Template_for_I
 
 	mkdir RMSD
 
