@@ -47,4 +47,4 @@
   
 
 # DISCLAIMER
-  The executable software and the source code of DeepUMQA is distributed free of charge as it is to any non-commercial users. The authors hold no liabilities to the     performance of the program.
+  The executable software and the source code of PAthreader is distributed free of charge as it is to any non-commercial users. The authors hold no liabilities to the performance of the program.
