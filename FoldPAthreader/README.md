@@ -26,13 +26,9 @@
 
 - Download Rosetta3.10 source package from https://www.rosettacommons.org/software/.
 (where `$ROSETTA_simulation`=path-to-Rosetta)
-
   Copy and paste ``"ClassicAbinitio.cc"`` and ``"ClassicAbinitio.hh"`` from ``"code/"`` folder in MMpred package to ``"$ROSETTA_simulation/main/source/src/protocols/abinitio/"`` folder in Rosetta.
-
   Copy and paste ``"FragmentMover.cc"`` and ``"FragmentMover.hh"`` from ``"code/"`` folder in MMpred package to ``"$ROSETTA_simulation/main/source/src/protocols/simple_moves/"`` folder in Rosetta.
-
   Compile source code using the following commands:
-
 ```
  $> cd $ROSETTA_simulation/main/source/
  $> ./scons.py AbinitioRelax -j<NumOfJobs> mode=release bin
